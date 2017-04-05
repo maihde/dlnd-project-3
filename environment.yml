@@ -1,0 +1,8 @@
+name: tv-script
+channels:
+- conda-forge
+- defaults
+dependencies:
+- tensorflow=1.0.0=py36_0
+prefix: /home/mihde/anaconda3/envs/tv-script
+
